@@ -1,4 +1,4 @@
-# Recall
+# Memento
 
 Recall is a private document knowledge workspace. Upload PDF, DOCX, or TXT files, wait for ingestion, and chat with an assistant that answers from retrieved document chunks with source citations.
 
