@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: ${DB_URL:jdbc:postgresql://postgres:5432/recall}
+
+logging:
+  level:
+    com.recall: DEBUG
+
+recall:
+  cors-origin: ${CORS_ORIGIN:http://localhost:3000}
