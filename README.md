@@ -313,7 +313,11 @@ The `nomic-embed-text` model uses 768-dimensional embeddings. Ensure the applica
 Memento supports local AI inference through Ollama. Keep database credentials, JWT secrets, and other private configuration in environment variables, and exclude `.env` files from version control.
 
 Local execution reduces reliance on hosted AI services, but overall privacy still depends on application configuration, network access, and operating-system security.
+## 📸 Application Screenshots
 
+### Memento Dashboard
+
+![Memento Dashboard](docs/images/memento-dashboard.png)
 ## 🎯 Project Goal
 
 Memento demonstrates how to build a full-stack, AI-powered document knowledge assistant using Java, Spring Boot, React, PostgreSQL, pgvector, and local language models.
