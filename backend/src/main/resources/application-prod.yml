@@ -1,7 +1,8 @@
+
 spring:
   jpa:
     hibernate:
-      ddl-auto: validate
+      ddl-auto: update
 
 server:
   forward-headers-strategy: framework
