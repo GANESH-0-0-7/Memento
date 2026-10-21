@@ -314,6 +314,7 @@ Memento supports local AI inference through Ollama. Keep database credentials, J
 
 Local execution reduces reliance on hosted AI services, but overall privacy still depends on application configuration, network access, and operating-system security.
 ## 📸 Application Screenshots
+https://github.com/GANESH-0-0-7/Memento/blob/main/docs/images/Screenshot%202026-10-21%20014712.png
 
 ### Memento Dashboard
 
